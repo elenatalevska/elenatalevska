@@ -1,0 +1,32 @@
+body {
+	background-color: black;
+	color: white;
+}
+.contenedor {
+	background-color: white;
+	color: black;
+	width: 900px;
+	height: 500px;
+	margin: 0px auto;
+}
+header {
+	background-color: lightblue;
+	height: 50px;
+}
+aside {
+	background-color: lightcoral;
+	width: 140px;
+	height: 100%;
+	float: left;
+}
+main {
+	width:  760px;
+	background-color: lightgreen;
+	height: 100%;
+	float: left;
+}
+footer {
+	width: 100%;
+	background-color: lightpink;
+	clear: both;
+}
